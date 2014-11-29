@@ -19,6 +19,7 @@ MONGODB_SERVER = "localhost"
 MONGODB_PORT = 27017
 MONGODB_DB = "productStats"
 MONGODB_COLLECTION = "product"
+MONGODB_COLLECTION1 = "description"
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'product (+http://www.yourdomain.com)'
